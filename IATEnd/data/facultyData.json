@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Tomar Abhay Singh",
+        "email" : "tomarabhay312@gmail.com",
+        "semesters" : [5,7],
+        "subjects" : ["All Subjects", "Jigayasa"],
+        "branch" : ["CSE", "IT", "All Brach "]
+
+    },
+
+    {
+        "name" : "Mishra Harsh",
+        "email" : "zorzorawar88@gmail.com",
+        "semesters" : [5,7],
+        "subjects" : ["EGD", "Maths 2"],
+        "branch" : ["CSE", "IT" ]
+
+    }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Student 1",
+    "enrollmentNumber": "211250116001",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student116001@gmail.com"
+  },
+  {
+    "name": "Student 2",
+    "enrollmentNumber": "211250116002",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student216002@gmail.com"
+  },
+  {
+    "name": "Student 3",
+    "enrollmentNumber": "211250116003",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student316003@gmail.com"
+  },
+  {
+    "name": "Student 4",
+    "enrollmentNumber": "211250116004",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student416004@gmail.com"
+  },
+  {
+    "name": "Student 5",
+    "enrollmentNumber": "211250116005",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student516005@gmail.com"
+  },
+  {
+    "name": "Student 6",
+    "enrollmentNumber": "211250116006",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student616006@gmail.com"
+  },
+  {
+    "name": "Student 7",
+    "enrollmentNumber": "211250116007",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student716007@gmail.com"
+  },
+  {
+    "name": "Student 8",
+    "enrollmentNumber": "211250116008",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student816008@gmail.com"
+  },
+  {
+    "name": "Student 9",
+    "enrollmentNumber": "211250116009",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student916009@gmail.com"
+  },
+  {
+    "name": "Student 10",
+    "enrollmentNumber": "211250116010",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1016010@gmail.com"
+  },
+  {
+    "name": "Student 11",
+    "enrollmentNumber": "211250116011",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1116011@gmail.com"
+  },
+  {
+    "name": "Student 12",
+    "enrollmentNumber": "211250116012",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1216012@gmail.com"
+  },
+  {
+    "name": "Student 13",
+    "enrollmentNumber": "211250116013",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1316013@gmail.com"
+  },
+  {
+    "name": "Student 14",
+    "enrollmentNumber": "211250116014",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1416014@gmail.com"
+  },
+  {
+    "name": "Student 15",
+    "enrollmentNumber": "211250116015",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1516015@gmail.com"
+  },
+  {
+    "name": "Student 16",
+    "enrollmentNumber": "211250116016",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1616016@gmail.com"
+  },
+  {
+    "name": "Student 17",
+    "enrollmentNumber": "211250116017",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1716017@gmail.com"
+  },
+  {
+    "name": "Student 18",
+    "enrollmentNumber": "211250116018",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1816018@gmail.com"
+  },
+  {
+    "name": "Student 19",
+    "enrollmentNumber": "211250116019",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student1916019@gmail.com"
+  },
+  {
+    "name": "Student 20",
+    "enrollmentNumber": "211250116020",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2016020@gmail.com"
+  },
+  {
+    "name": "Student 21",
+    "enrollmentNumber": "211250116021",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2116021@gmail.com"
+  },
+  {
+    "name": "Student 22",
+    "enrollmentNumber": "211250116022",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2216022@gmail.com"
+  },
+  {
+    "name": "Student 23",
+    "enrollmentNumber": "211250116023",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2316023@gmail.com"
+  },
+  {
+    "name": "Student 24",
+    "enrollmentNumber": "211250116024",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2416024@gmail.com"
+  },
+  {
+    "name": "Student 25",
+    "enrollmentNumber": "211250116025",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2516025@gmail.com"
+  },
+  {
+    "name": "Student 26",
+    "enrollmentNumber": "211250116026",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2616026@gmail.com"
+  },
+  {
+    "name": "Student 27",
+    "enrollmentNumber": "211250116027",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2716027@gmail.com"
+  },
+  {
+    "name": "Student 28",
+    "enrollmentNumber": "211250116028",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2816028@gmail.com"
+  },
+  {
+    "name": "Student 29",
+    "enrollmentNumber": "211250116029",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student2916029@gmail.com"
+  },
+  {
+    "name": "Student 30",
+    "enrollmentNumber": "211250116030",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3016030@gmail.com"
+  },
+  {
+    "name": "Student 31",
+    "enrollmentNumber": "211250116031",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3116031@gmail.com"
+  },
+  {
+    "name": "Student 32",
+    "enrollmentNumber": "211250116032",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3216032@gmail.com"
+  },
+  {
+    "name": "Student 33",
+    "enrollmentNumber": "211250116033",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3316033@gmail.com"
+  },
+  {
+    "name": "Student 34",
+    "enrollmentNumber": "211250116034",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3416034@gmail.com"
+  },
+  {
+    "name": "Student 35",
+    "enrollmentNumber": "211250116035",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3516035@gmail.com"
+  },
+  {
+    "name": "Student 36",
+    "enrollmentNumber": "211250116036",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3616036@gmail.com"
+  },
+  {
+    "name": "Student 37",
+    "enrollmentNumber": "211250116037",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3716037@gmail.com"
+  },
+  {
+    "name": "Student 38",
+    "enrollmentNumber": "211250116038",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3816038@gmail.com"
+  },
+  {
+    "name": "Student 39",
+    "enrollmentNumber": "211250116039",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student3916039@gmail.com"
+  },
+  {
+    "name": "Student 40",
+    "enrollmentNumber": "211250116040",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4016040@gmail.com"
+  },
+  {
+    "name": "Student 41",
+    "enrollmentNumber": "211250116041",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4116041@gmail.com"
+  },
+  {
+    "name": "Student 42",
+    "enrollmentNumber": "211250116042",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4216042@gmail.com"
+  },
+  {
+    "name": "Student 43",
+    "enrollmentNumber": "211250116043",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4316043@gmail.com"
+  },
+  {
+    "name": "Student 44",
+    "enrollmentNumber": "211250116044",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4416044@gmail.com"
+  },
+  {
+    "name": "Student 45",
+    "enrollmentNumber": "211250116045",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4516045@gmail.com"
+  },
+  {
+    "name": "Student 46",
+    "enrollmentNumber": "211250116046",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4616046@gmail.com"
+  },
+  {
+    "name": "Student 47",
+    "enrollmentNumber": "211250116047",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4716047@gmail.com"
+  },
+  {
+    "name": "Student 48",
+    "enrollmentNumber": "211250116048",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4816048@gmail.com"
+  },
+  {
+    "name": "Student 49",
+    "enrollmentNumber": "211250116049",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student4916049@gmail.com"
+  },
+  {
+    "name": "Student 50",
+    "enrollmentNumber": "211250116050",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5016050@gmail.com"
+  },
+  {
+    "name": "Student 51",
+    "enrollmentNumber": "211250116051",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5116051@gmail.com"
+  },
+  {
+    "name": "Student 52",
+    "enrollmentNumber": "211250116052",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5216052@gmail.com"
+  },
+  {
+    "name": "Student 53",
+    "enrollmentNumber": "211250116053",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5316053@gmail.com"
+  },
+  {
+    "name": "Student 54",
+    "enrollmentNumber": "211250116054",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5416054@gmail.com"
+  },
+  {
+    "name": "Student 55",
+    "enrollmentNumber": "211250116055",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5516055@gmail.com"
+  },
+  {
+    "name": "Student 56",
+    "enrollmentNumber": "211250116056",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5616056@gmail.com"
+  },
+  {
+    "name": "Student 57",
+    "enrollmentNumber": "211250116057",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5716057@gmail.com"
+  },
+  {
+    "name": "Student 58",
+    "enrollmentNumber": "211250116058",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5816058@gmail.com"
+  },
+  {
+    "name": "Student 59",
+    "enrollmentNumber": "211250116059",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student5916059@gmail.com"
+  },
+  {
+    "name": "Student 60",
+    "enrollmentNumber": "211250116060",
+    "semester": 7,
+    "branch": "IT",
+    "email": "student6016060@gmail.com"
+  }
+]
